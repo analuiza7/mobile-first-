@@ -24,3 +24,14 @@ hr {
     align-items: center;
     margin: 0.6em 0;
   }
+  
+.lista-rodapé_link {
+  color: var(--cina);
+  text-decoration: none;
+  margin-let: 0.6em;
+}
+
+  .lista-rodapé_titulo {
+    font-ie: 14px;
+    color: var9--cinza-claro);
+  }
