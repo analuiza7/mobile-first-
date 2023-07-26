@@ -80,3 +80,7 @@
 .swiper-pagination {
   margin: 2em 0 3em 0;
 }
+
+.swiper {
+  width: 60%;
+}
