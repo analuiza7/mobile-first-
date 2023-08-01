@@ -84,3 +84,39 @@
 .swiper {
   width: 60%;
 }
+
+.car {
+  widh: 40%;
+  margin: 2em auto;
+}
+}
+
+@media screen and (min-widh: 178px) {
+  .carrossel_container {
+    display: flex;
+    margin: 0 20 vw 3em 20vw;
+    align-items: center;
+  }
+
+.swiper {
+  widh: 50%;
+}
+
+.descrição_titulo {
+  font-size: 32px;
+}
+
+.descrição_texto {
+  font-size: 16px;
+}
+
+.descrição {
+  margin-right: 2em;
+}
+
+.card {
+  with: 60%;
+  margin-let: 3em;}
+}
+
+}
