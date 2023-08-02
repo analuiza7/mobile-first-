@@ -122,3 +122,13 @@ display; none;
 .lista-menu_item:hover {
   background: var(--azul-degrade);
 }
+
+.lista-menu_item:hover>.lista-menu_link {
+  -webkit-text-fill-color: var(--branco);
+  text-decoration: none;
+}
+
+}
+
+@media screen and (min-width: 1728px) {
+  
