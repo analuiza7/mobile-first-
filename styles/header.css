@@ -6,8 +6,12 @@
   background-position:center;
   display: inline-block;
 }
-.container_botao:checke~.container_rotulo>.cabeçalho_menu-hamburguer{background-image:url("../img/Menu Aberto.g");
+.container_botao:checke~.container_rotulo>.cabeçalho_menu-hamburguer{background-image:url("../img/Menu Aberto.svg");
 }
+.conteiner_botao:checked~.container_rotulo>.cabeçalho_menu-hamburguer {
+  backgroud-imagem: url("../img/menu Aberto.svg");
+}
+
 .container_botao:checked~container_rotulo{
   background:var(--azul-degrade);
 }
